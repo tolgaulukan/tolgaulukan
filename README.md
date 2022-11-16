@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - (Making a Wordle game using Javascript, HTML, CSS](https://github.com/tolgaulukan/GA-Wordle)
+  - [Making a Wordle game using Javascript, HTML, CSS](https://github.com/tolgaulukan/GA-Wordle)
 
 <h2>  Accomplishments:</h2>
 
