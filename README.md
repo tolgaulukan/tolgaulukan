@@ -9,7 +9,9 @@
 
 <h2>  Accomplishments:</h2>
 
-  - Completed a course in software engineering at General Assembly
+  - Completed a course in software engineering at General Assembly - 2022
+  - Knowledge in technologies such as HTML, CSS, JS, Node, React, SQL, C#, Unity
+  - I’m currently working on projects involving game development learning new technologies to develop projects.
   
 <h2> 🤳 Connect with me:</h2>
 
@@ -22,10 +24,7 @@
 [youtube]: https://www.youtube.com/channel/UCQYN7qpLtO01kxXwKdsirag
 [instagram]: https://www.instagram.com/tolga.ulukan/?hl=en
 [linkedin]: https://www.linkedin.com/in/tolga-ulukan/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -36,4 +35,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
