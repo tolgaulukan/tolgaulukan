@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [Making a Wordle game using Javascript, HTML, CSS](https://github.com/tolgaulukan/GA-Wordle)
+  - [A marketplace for vintage gaming appliances, games and accessories using Python, HTML, CSS and Databases with SQL](https://github.com/tolgaulukan/Retro-Game-Marketplace)
 
 <h2>  Accomplishments:</h2>
 
