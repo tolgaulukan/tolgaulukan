@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Making a Wordle game using Javascript, HTML, CSS]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/tolgaulukan/GA-Wordle))
 
 
 <h2>  Accomplishments:</h2>
