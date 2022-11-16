@@ -4,6 +4,8 @@
 
   - [Making a Wordle game using Javascript, HTML, CSS](https://github.com/tolgaulukan/GA-Wordle)
   - [A marketplace for vintage gaming appliances, games and accessories using Python, HTML, CSS and Databases with SQL](https://github.com/tolgaulukan/Retro-Game-Marketplace)
+  - [A Cookie Clicker-type game where you click to get more points made using React, Javascipt, CSS with tests involved](https://github.com/tolgaulukan/ManaMaster)
+  - [A group project for a sneaker marketplace/collection which involves user sign-up/login using node.js, express, bootstrap, and databases with SQL]((https://github.com/joash9500/sneakers))
 
 <h2>  Accomplishments:</h2>
 
